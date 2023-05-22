@@ -1,0 +1,9 @@
+please explain the concept of borrow checker in rust
+
+please explain the concept of lifetimes in rust
+
+please explain the issue of data races with example
+
+please explain the issue of dangling pointers with example
+
+please explain the issue of memory leaks with example
